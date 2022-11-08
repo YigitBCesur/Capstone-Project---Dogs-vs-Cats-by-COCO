@@ -1,4 +1,4 @@
-# Detectron2 Cats Vs Dogs :cat: :dog:
+# :dog: Detectron2 Cats Vs Dogs :cat: 
 Train a detectron model on a custom dataset (Coco formated). 
 
 ## Introduction
@@ -8,7 +8,7 @@ Train a detectron model on a custom dataset (Coco formated).
 ## How To Create Custom Dataset
 * First, you need to get a labelling tool such as Labelme. You can insall [labelme](https://github.com/wkentaro/labelme) using the link.
 * Every individual object in an image must be classified and identified each instance of an object within an image. More information : [Image Segmentation](https://datagen.tech/guides/image-annotation/labelme/)
-* Dataset folders must be like in the following format. [Example Dataset](https://github.com/mharunturkmenoglu/detectron2_catsvsdogs/blob/main/catsvsdogs.zip)
+* Dataset folders must be like in the following format. [Example Dataset](https://github.com/YigitBCesur/Coco-dataset-Dogs-vs-Cats/blob/main/dogs_and_cats.zip)
 ```bash
 .
 ├── train/
