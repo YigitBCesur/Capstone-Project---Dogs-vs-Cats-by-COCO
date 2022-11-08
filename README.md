@@ -1,4 +1,4 @@
-# :dog: Detectron2 Cats Vs Dogs :cat: 
+#  Coco Detectron2 Dogs :dog: and Cats  :cat: 
 Train a detectron model on a custom dataset (Coco formated). 
 
 ## Introduction
